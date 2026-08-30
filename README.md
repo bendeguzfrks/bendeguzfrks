@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About me
+
+- 🔭 I worked 2 years @ IBM as an AI engineer in the business automation portfolio. 
+- 🌱 I am currently studying about quantum sensing as Master student in Copenhagen. 
+- ⚡  I'm big fan of deep neural networks and game development. If I am not front of my computer, I like to climb (bouldering usually). :climbing:
