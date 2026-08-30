@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=3000&pause=1022&color=F7C9BB&width=900&height=50&lines=Welcome+to+my+github+page!;You+can+find+some+interesting+university+projects+here.;Quick+fox+jumps+nightly+above+wizard)](https://git.io/typing-svg)
 
 <!--
 **bendeguzfrks/bendeguzfrks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
